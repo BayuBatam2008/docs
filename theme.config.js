@@ -1,5 +1,5 @@
 export default {
-  repository: 'https://github.com/BayuBatam2008/docs'
+  repository: 'https://github.com/BayuBatam2008/docs',
   titleSuffix: ' – ByProduct',
   logo: (
     <>
