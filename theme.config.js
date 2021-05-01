@@ -1,5 +1,4 @@
 export default {
-  repository: 'https://github.com/shuding/nextra',
   titleSuffix: ' – ByProduct',
   logo: (
     <>
